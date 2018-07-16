@@ -4,15 +4,8 @@
  * Route d'Oron 2
  * 1010 Lausanne, Switzerland
  * E-mail contact: contact@flowkit.com
- *
-<<<<<<< HEAD
-<<<<<<< HEAD
+
  * The most recent release of Palabos can be downloaded at
-=======
- * The most recent release of Palabos can be downloaded at 
->>>>>>> bebbcca4e6a9e65b02d9b9bf9f4b48483d871410
-=======
- * The most recent release of Palabos can be downloaded at 
 >>>>>>> bebbcca4e6a9e65b02d9b9bf9f4b48483d871410
  * <http://www.palabos.org/>
  *
@@ -34,10 +27,4 @@
 #include <mysrc/headersJo/buoyantProcessor3D_v2.hh>
 #include <mysrc/headersJo/CouplingProcessor3D.hh>
 #include <mysrc/headersJo/VolFracDensityCoupling.hh>
-<<<<<<< HEAD
-<<<<<<< HEAD
 #include <mysrc/headersJo/TagProcessor3D.hh>
-=======
->>>>>>> bebbcca4e6a9e65b02d9b9bf9f4b48483d871410
-=======
->>>>>>> bebbcca4e6a9e65b02d9b9bf9f4b48483d871410
