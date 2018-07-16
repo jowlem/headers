@@ -5,8 +5,7 @@
  * 1010 Lausanne, Switzerland
  * E-mail contact: contact@flowkit.com
  *
- * The most recent release of Palabos can be downloaded at 
- * <http://www.palabos.org/>
+
  *
  * The library Palabos is free software: you can redistribute it and/or
  * modify it under the terms of the GNU Affero General Public License as
@@ -27,3 +26,4 @@
 #include <mysrc/headersJo/buoyantProcessor3D_v2.h>
 #include <mysrc/headersJo/CouplingProcessor3D.h>
 #include <mysrc/headersJo/VolFracDensityCoupling.h>
+#include <mysrc/headersJo/TagProcessor3D.h>
