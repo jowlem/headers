@@ -8,7 +8,7 @@
 <<<<<<< HEAD
  * The most recent release of Palabos can be downloaded at
 =======
- * The most recent release of Palabos can be downloaded at 
+ * The most recent release of Palabos can be downloaded at
 >>>>>>> bebbcca4e6a9e65b02d9b9bf9f4b48483d871410
  * <http://www.palabos.org/>
  *
@@ -31,7 +31,4 @@
 #include <mysrc/headersJo/buoyantProcessor3D_v2.h>
 #include <mysrc/headersJo/CouplingProcessor3D.h>
 #include <mysrc/headersJo/VolFracDensityCoupling.h>
-<<<<<<< HEAD
 #include <mysrc/headersJo/TagProcessor3D.h>
-=======
->>>>>>> bebbcca4e6a9e65b02d9b9bf9f4b48483d871410
