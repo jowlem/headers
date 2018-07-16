@@ -5,11 +5,7 @@
  * 1010 Lausanne, Switzerland
  * E-mail contact: contact@flowkit.com
  *
-<<<<<<< HEAD
  * The most recent release of Palabos can be downloaded at
-=======
- * The most recent release of Palabos can be downloaded at
->>>>>>> bebbcca4e6a9e65b02d9b9bf9f4b48483d871410
  * <http://www.palabos.org/>
  *
  * The library Palabos is free software: you can redistribute it and/or
